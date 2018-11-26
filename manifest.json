@@ -1,0 +1,12 @@
+{
+  "name": "Pagina web de ISIC",
+  "short_name": "Isic-Pag",
+  "description": "Esta es una pagina, para que puedas acceder a la información de la carrera de Ingeniería en Sistemas Computacionales :)",
+  "background_color": "#2C3E50",
+  "theme_color": "#566573",
+  "orientation": "portrait-primary",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX"
+}
